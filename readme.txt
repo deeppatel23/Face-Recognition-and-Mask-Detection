@@ -20,3 +20,5 @@ Steps to make facial recognition project:
 5.) Once you understand face recognition, mask detection is quiet simple project.
 6.) It basically runs this way - when it detects face it means mask is not found, whereas mask on face gets detected. This is highly useful at gate entry allowance but need a better camera and abetter model to best accuracy. However, this model only provides minimal accuracy.  
 
+![Mask Not Detected](https://github.com/deeppatel23/opencvproject/blob/master/masknotdetected.jpeg)
+![Mak Detected](https://github.com/deeppatel23/opencvproject/blob/master/maskdetection.py)
